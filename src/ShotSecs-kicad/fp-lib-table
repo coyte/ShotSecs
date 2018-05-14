@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name espressocounter)(type KiCad)(uri "$(KIPRJMOD)/espressocounter.pretty")(options "")(descr ""))
+)

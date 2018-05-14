@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BlockTrafo_VB_1,5-70
+D Transformer, single primary, single secondary, 
+K transformer
+F http://www.block.eu/en_IN/products/393256.htm
+$ENDCMP
+#
+#End Doc Library
